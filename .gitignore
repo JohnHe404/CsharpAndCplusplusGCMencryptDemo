@@ -3,3 +3,7 @@
 ################################################################################
 
 /AES_GCM_Demo/.vs/AES_GCM_Demo
+/AES_GCM_Demo/CPP_GCM/x64/Debug
+/AES_GCM_Demo/CSharpGCM/bin/Debug/netcoreapp3.1
+/AES_GCM_Demo/CSharpGCM/obj
+/AES_GCM_Demo/x64/Debug
